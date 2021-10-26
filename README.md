@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Hoang Tran
 - 👀 I’m interested in front-end development with Vue.js and Tailwind CSS
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning AWS 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me at hoang.tran.fin@gmail.com
 
 <!---
 hoangfin/hoangfin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
