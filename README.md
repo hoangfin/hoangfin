@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Solid.js and Svelte.js**
+- 🌱 I’m currently learning **React.js and TypeScript**
 
-- 💬 Ask me about **JavaScript/TypeScript - React - MaterialUI**
+- 💬 Ask me about **C/C++, JavaScript**
 
 - 📫 How to reach me **hoang.tran.fin@gmail.com**
 
