@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hoang Tran</h1>
-<h3 align="center">A passionate full-stack developer from Finland</h3>
+<h3 align="center">Full-Stack Engineer (TypeScript · Go · Rust)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoangfin&label=Profile%20views&color=0e75b6&style=flat" alt="hoangfin" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently fostering **React.js and TypeScript**
+- 🌱 I’m currently fostering **Go and Rust** for high-throughput soft real-time and hard real-time systems
 
-- 💬 Ask me about **C/C++, JavaScript, HTML, CSS**
+- 💬 Ask me about **React, TypeScript, Node.js, Go, Rest, C/C++**
 
 - 📫 How to reach me **hoang.tran.fin@gmail.com**
 
